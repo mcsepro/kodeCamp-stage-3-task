@@ -973,6 +973,10 @@ padding: 30px;
     margin-left: initial;
     width: auto;
   }
+
+  .section-8 .container-layout-1 {
+    margin-right: 281px;
+}
   .section-8 .container-layout-2 {
     padding-top: 0;
   }
@@ -980,4 +984,8 @@ padding: 30px;
     padding-top: 0;
     padding-bottom: 0;
   }
+
+  .section-8 .btn-1 {
+    margin-right: 153px;
+}
 }
