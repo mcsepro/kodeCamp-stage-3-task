@@ -768,7 +768,6 @@ padding: 30px;
 .layout-row {
   display: flex;
   flex-direction: row;
-  flex-wrap: wrap;
   min-height: 100%;
   max-width: 100%;
 }
