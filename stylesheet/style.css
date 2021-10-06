@@ -797,11 +797,13 @@ padding: 30px;
   font-weight: unset;
   text-transform: uppercase;
   margin: 0;
+  text-align: left;
 }
 .section-7 .text-2 {
   font-size: 6rem;
   line-height: 1;
   margin: 10px 0 0;
+  text-align: left;
 }
 .section-7 .image-1 {
   min-height: 222px;
