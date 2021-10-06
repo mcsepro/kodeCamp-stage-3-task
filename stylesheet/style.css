@@ -14,6 +14,10 @@ html {
   font-size: calc(60% + 0.8vmin);
 }
 
+body, html{
+  overflow-x: hidden;
+  width: 100%;
+}
 
 main {
   max-width: 40rem;
@@ -274,10 +278,10 @@ h1, h2, h3, h4, h5, h6 {
     margin-right: 90px;
   }
   .section-3 .text-2 {
-    width: 340px;
+    width: 321px;
   }
   .section-3 .text-3 {
-    width: 340px;
+    width: 319px;
   }
 }
 
@@ -845,9 +849,6 @@ padding: 30px;
 
 .gutter-30 .layout .layout-cell {
   border: 15px solid transparent;
-}
-.tabs:not([class*="align-"]), .accordion:not([class*="align-"]), .repeater-item:not([class*="align-"]), .container-style:not([class*="align-"]) {
-  text-align: left;
 }
 
 .layout-cell, .container-style.opacity, .group.opacity {
