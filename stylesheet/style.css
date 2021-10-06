@@ -693,6 +693,13 @@ padding: 30px;
     justify-content: flex-start;
   }
 @media (max-width: 575px) {
+  .services {
+    height: 64px;
+    flex-grow: 1;
+    flex-basis: 33.33%;
+    margin-left: 43px;
+    margin-bottom: 20px;
+}
   .section-6 .sheet-1 {
     min-height: 235px;
   }
